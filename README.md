@@ -15,8 +15,9 @@ The main objectives were to:
 - Build machine learning models using Spark MLlib to predict delayed flights
 
 ## Dataset 
-[Airline Delay and Cancellation Data 2009–2018](https://www.kaggle.com/datasets/usdot/flight-delays)
-[2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/usdot/flight-delays)
+* [Airline Delay and Cancellation Data 2009–2018](https://www.kaggle.com/datasets/usdot/flight-delays)
+  
+* [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/usdot/flight-delays)
 
 ## Tech Stack
 
